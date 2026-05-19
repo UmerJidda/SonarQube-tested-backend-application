@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+.sonar/
+__pycache__/
+.pytest_cache/
+coverage.xml
+*.pyc
+
 # C extensions
 *.so
 
